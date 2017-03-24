@@ -1,3 +1,5 @@
+/*Line 43 error*/
+
 var db = null;
 var db2 = null;
 var db3 = null;
