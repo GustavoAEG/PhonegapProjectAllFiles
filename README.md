@@ -1,1 +1,2 @@
-# Teste_2
+JAVASCRIPT
+PHONEGAP
