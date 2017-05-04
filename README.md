@@ -5,4 +5,4 @@ The error says:"Uncaught TypeError: Cannot read property 'querySelector' of null
 
 CAN you fix issue?
 
-Tanks so much!
+Thanks!
