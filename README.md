@@ -1,3 +1,5 @@
+Insert code in your folder www and compile project.
+
 The Phonegap project´s make using Android Studio, with language in Javascript.
 It´s have an error in line 43 index.js ---- Javascript----
 ----Android Studio----
